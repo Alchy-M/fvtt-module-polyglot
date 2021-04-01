@@ -17,6 +17,8 @@
   "POLYGLOT.ExportFontsHint": "Rendre les polices de Polyglot disposnibles pour Foundry (dans les outils de dessin par exemple).",
   "POLYGLOT.DisplayTranslatedTitle": "Affichicher la traduction",
   "POLYGLOT.DisplayTranslatedHint": "Pour les langues traduites dans les messages de tchat, afficher le texte original et sa traduction.",
+  "POLYGLOT.HideTranslationTitle": "Cache le globe et le texte \"Traduit depuis\" aux joueurs",
+  "POLYGLOT.HideTranslationHint": "Cache le globe et le texte \"Traduit depuis\" du chat aux joueurs. Parfait lorsque vous ne voulez pas montrer aux joueurs la langue dans laquelle vous parlez.",
   "POLYGLOT.AllowOOCTitle": "Crypter les messages non destinés à un personnage",
   "POLYGLOT.AllowOOCHint": "Permet au MJ de crypter tout les messages du tchat, y compris ceux non destinés aux personnages.",
   "POLYGLOT.Translation": "Traduction",
@@ -25,5 +27,10 @@
   "POLYGLOT.ToggleRunes": "Activer/Desactiver les Runes",
   "POLYGLOT.Runes": "Runes",
   
+  "POLYGLOT.COC7.LanguageOwn": "Langue",
+  "POLYGLOT.COC7.LanguageAny": "Langue",
+  "POLYGLOT.COC7.LanguageOther": "Langue",
+  "POLYGLOT.COC7.LanguageSpec": "Langue",
+  "POLYGLOT.SWADE.LanguageSkills": "Langue",
   "POLYGLOT.WFRP4E.LanguageSkills": "Langue"
 }
